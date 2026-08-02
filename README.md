@@ -14,6 +14,7 @@ Become a Full Stack Developer and Bug Bounty Hunter.
 - Web Application Security
 - Bug Bounty
 - Learning Full Stack Development
+- hello
 
 ## Day 1
 

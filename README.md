@@ -16,4 +16,4 @@ Become a Full Stack Developer and Bug Bounty Hunter.
 
 ## Day 1
 
-Started my professional journey.
+Started my professional journey
